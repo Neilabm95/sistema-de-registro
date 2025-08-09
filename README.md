@@ -4,3 +4,4 @@
 para ejecutar el sistema debes poner el:
 
 ```npm installer reack```
+sistema de registro 2
